@@ -1,0 +1,5 @@
+*.txt
+data/*
+results/
+exp_results/*
+.DS_Store
