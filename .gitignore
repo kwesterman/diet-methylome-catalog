@@ -1,5 +1,6 @@
 *.txt
 data/*
-results/
+int/*
+results/*
 exp_results/*
 .DS_Store
